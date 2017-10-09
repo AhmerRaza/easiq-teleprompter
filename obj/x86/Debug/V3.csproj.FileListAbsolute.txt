@@ -1,0 +1,80 @@
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\bin\Debug\Images\blue.png
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\bin\Debug\Images\marker.png
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\bin\Debug\Images\marker3.png
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\bin\Debug\Images\red.png
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\bin\Debug\Images\slide.jpg
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\bin\Debug\Teleprompter.exe.config
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\bin\Debug\Teleprompter.exe
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\bin\Debug\Teleprompter.pdb
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Wpf Controls\FlipViewer.baml
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Wpf Controls\FlipViewer.g.cs
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Wpf Controls\Editor.g.cs
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter_Content.g.cs
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter_MarkupCompile.cache
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter_MarkupCompile.lref
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Wpf Controls\Editor.baml
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.g.resources
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.AboutEasiQ.resources
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.frmEditor.resources
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.frmCameraProp.resources
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.frmExViewer.resources
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.fmMarkerProp.resources
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.fmPlaylistProp.resources
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.fmSlideProp.resources
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.fmStreamProp.resources
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.frmFindDialog.resources
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.Forms.frmLicense.resources
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.Forms.frmMailer.resources
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.frmMain.resources
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.frmSettings.resources
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.frmViewer.resources
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.Properties.Resources.resources
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\V3.csproj.GenerateResource.Cache
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.exe
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.pdb
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Build\V3\Teleprompter.exe.config
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Build\V3\Images\blue.png
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Build\V3\Images\marker.png
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Build\V3\Images\marker3.png
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Build\V3\Images\red.png
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Build\V3\Images\slide.jpg
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Build\V3\Teleprompter.exe
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Build\V3\Teleprompter.pdb
+C:\Users\Stephen\Documents\Projects\Customers\EasiQ\Teleprompter\obj\x86\Debug\V3.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Build\V3\Images\blue.png
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Build\V3\Images\marker.png
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Build\V3\Images\marker3.png
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Build\V3\Images\red.png
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Build\V3\Images\slide.jpg
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Build\V3\Teleprompter.exe.config
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Build\V3\Teleprompter.exe
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Build\V3\Teleprompter.pdb
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Wpf Controls\FlipViewer.baml
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Wpf Controls\FlipViewer.g.cs
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Wpf Controls\Editor.g.cs
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter_Content.g.cs
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter_MarkupCompile.cache
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter_MarkupCompile.lref
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Wpf Controls\Editor.baml
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.g.resources
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.AboutEasiQ.resources
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.frmEditor.resources
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.frmCameraProp.resources
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.frmExViewer.resources
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.fmMarkerProp.resources
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.fmPlaylistProp.resources
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.fmSlideProp.resources
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.fmStreamProp.resources
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.frmFindDialog.resources
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.Forms.frmLicense.resources
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.Forms.frmMailer.resources
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.frmMain.resources
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.frmSettings.resources
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.frmViewer.resources
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.Properties.Resources.resources
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\V3.csproj.GenerateResource.Cache
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.exe
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.pdb
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\V3.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Teleprompter\obj\x86\Debug\Teleprompter.Forms.frmActivation.resources
+C:\Users\Stephen\Documents\Projects\Projects\EasiQ\Build\V4\Teleprompter.exe.config

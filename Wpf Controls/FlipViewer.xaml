@@ -1,0 +1,21 @@
+﻿<Grid x:Class="Teleprompter.Wpf_Controls.FlipViewer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d"
+      HorizontalAlignment="Stretch" VerticalAlignment="Stretch" MaxHeight="768" MaxWidth="972"
+              Loaded="Grid_Loaded" MouseEnter="Grid_MouseEnter" MouseLeave="Grid_MouseLeave" Background="Black">
+
+    <RichTextBox  Margin="0,0,0,0" Name="rtfEditor"  Padding="-1" ScrollViewer.ScrollChanged="rtfEditor_ScrollChanged"
+                  VerticalAlignment="Stretch" Width="972" Height="768"  VerticalScrollBarVisibility="Hidden" Background="Black" Foreground="White" FontSize="120" FontFamily="Arial" TextChanged="rtfEditor_TextChanged"
+                  SelectionChanged="rtfEditor_SelectionChanged" PreviewKeyDown="rtfEditor_PreviewKeyDown" PreviewKeyUp="rtfEditor_PreviewKeyUp"
+                  ClipToBounds="False" BorderThickness="0" BorderBrush="Black" MouseEnter="rtfEditor_MouseEnter" MouseLeave="rtfEditor_MouseLeave" IsEnabled="True" IsReadOnly="True">
+        <RichTextBox.Resources>
+            <Style TargetType="{x:Type Paragraph}">
+                <Setter Property="Margin" Value="0" />
+                <Setter Property="LineStackingStrategy" Value="BlockLineHeight" />
+            </Style>
+        </RichTextBox.Resources>
+    </RichTextBox>
+</Grid>
